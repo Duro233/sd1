@@ -14,8 +14,8 @@
 
 <div class="navbar">
   <a href="index.html">Homepage</a>
-  <a href="reports.html">Reports</a>
-  <a href="videos.html">Videos</a>
+  <a href="reportpage.html">Reports</a>
+  <a href="demovideo.html">Videos</a>
   <a href="about.html" class="right">About Us</a>
 </div>
 
