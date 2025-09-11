@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="header">
+  <h1>SMART BREAKER</h1>
+  <p>Senior Design 1</p>
+</div>
+
+<div class="navbar">
+  <a href="index.html">Homepage</a>
+  <a href="reports.html">Reports</a>
+  <a href="videos.html">Videos</a>
+  <a href="about.html" class="right">About Us</a>
+</div>
+
+<div class="main">
+   <h2>Project Description</h2>
+   <p>The Smart Breaker is an innovative redesign of the conventional household breaker, combining safety, reliability, and modern connectivity. Unlike traditional mechanical breakers that are prone to wear and failure, the Smart Breaker uses a MCU to provide faster and more dependable protection against overcurrent, short circuits, arc faults, and ground faults. Equipped with real-time monitoring, temperature sensing, and wireless communication, it allows users to track energy usage, receive alerts, and remotely trip the breaker through a smartphone app or website. Compact enough to fit into a standard breaker box, the Smart Breaker enhances electrical safety while supporting predictive maintenance, smart home integration, and future scalability for both residential and commercial applications.</p>
+   <br>
+   <h2>Sponsor</h2>
+   <p>We would like to acknowledge and thank our sponsor, Dr. Qun Zhou Sun, from the University of Central Florida, for her guidance and support throughout this project. We also extend our gratitude to Grid Interactive Things Inc. for their collaboration and interest in the Smart Breaker development.</p>
+   <p>Contact information: ...<p>
+</div>
+
+<div class="footer">
+  <h2>Link to website:</h2>
+  <p>Group Members:
+    <span class="name">David Durosinmi</span>
+    <span class="name">Carter Harman</span>
+    <span class="name">Emmanuel Lopez</span>
+    <span class="name">Eliezer Urdaneta</span>
+  </p>
+  <p>Reviewers:
+    <span class="name">Dr. Qun Zhou Sun</span>
+    <span class="name">Dr. Wei Sun</span>
+    <span class="name">Dr. Jiann-Shiun Yuan</span>
+  </p>
+</div>
+
+
+</body>
+</html>
